@@ -1,0 +1,49 @@
+<head>
+    <title>About Me Home Page</title>
+    <link rel="stylesheet" type="text/css" href="CSS/CSS_reset.css">
+    <link rel="stylesheet" type="text/css" href="CSS/CSS_primary.css">
+</head>
+<body>
+	<header class="masthead">
+	  <p class="masthead-intro">Hi, I'm</p>
+	  <h1 class="masthead-heading">Ryan</h1>
+	</header>
+	<section class="introduction-section">
+	  <h1>Introduction:</h1>
+	  <p>I work in book publishing promoting and marketing new books and I want to learn how to build websites. This is my first website, a work in progress, and a place for me to experiement with HTML, CSS, and JavaScript.
+	  </p>
+	</section>
+	<section class="location-section">
+	  <h1>Where I'm from:</h1>
+	  <p>I'm (almost, aside from 4 years in Miami) a lifelong Massachusetts resident, having lived near Boston for most of my life.</p>
+	</section>
+	<section class="questions-section">
+	  <h1>A little more about me...</h1>
+	  <h2>What I do for fun:</h2>
+	  <p>When I'm not marketing books you might find me barbecuing, going to live music and comedy shows, kayaking, or taking care of my fish tank.
+	    <h2>Some of my favorite music:</h2>
+	    <p>What's on my playlist this week???</p><br>
+	    <ul class="list">
+	      <li>Ty Segall</li>
+	      <li>T. Rex</li>
+	      <li>John Lee Hooker</li>
+	      <li>Kurt Vile</li>
+	      <li>Talking Heads</li>
+	    </ul>
+	    <h2>My aquarium:</h2>
+	    <p>Some of the species that call my fish tank home:</p>
+	    <ul>
+	      <li>Festivum Cichlid - (Mesonauta festivus)</li>
+	      <li>Silver Dollar - (Metynnis maculatus)</li>
+	      <li>Marbled Headstander - (Abramites hypselonotus)
+	    </ul>
+	</section>
+	<footer class="content-footer">
+	    <p>Say hi to me on these social networks:</p>
+	    <ul class="social">
+	        <li><a href="_INSERT_GITHUB_URL_HERE_">GitHub</a></li>
+	        <li><a href="_INSERT_TWITTER_URL_HERE_">Twitter</a></li>
+	        <li><a href="_INSERT_GOOGLE+_URL_HERE_">Google+</a></li>
+	    </ul>
+	</footer>
+</body>
